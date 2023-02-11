@@ -13,7 +13,7 @@ function preload(){
 
   // Load the image
   // img = loadImage('');	
-  img = loadImage("../images/330px-Farallon_Islands_at_inferior_mirage_no_mirage_and_superior_mirage.jpg");
+  img = loadImage("330px-Farallon_Islands_at_inferior_mirage_no_mirage_and_superior_mirage.jpg");
   
 }
 
