@@ -1,0 +1,654 @@
+{
+  "name": "Mirage",
+  "url": "https://en.wikipedia.org/wiki/Mirage",
+  "content": {
+    "externalLinks": [
+      {
+        "href": "https://en.wikipedia.org/wiki/Mirage_(disambiguation)",
+        "text": "Mirage (disambiguation)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Question_book-new.svg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Wikipedia:Verifiability",
+        "text": "verification"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Help:Referencing_for_beginners",
+        "text": "adding citations to reliable sources"
+      },
+      {
+        "href": "//www.google.com/search?as_eq=wikipedia&amp;q=%22Mirage%22",
+        "text": "\"Mirage\""
+      },
+      {
+        "href": "//www.google.com/search?tbm=nws&amp;q=%22Mirage%22+-wikipedia&amp;tbs=ar:1",
+        "text": "news"
+      },
+      {
+        "href": "//www.google.com/search?&amp;q=%22Mirage%22&amp;tbs=bkt:s&amp;tbm=bks",
+        "text": "newspapers"
+      },
+      {
+        "href": "//www.google.com/search?tbs=bks:1&amp;q=%22Mirage%22+-wikipedia",
+        "text": "books"
+      },
+      {
+        "href": "//scholar.google.com/scholar?q=%22Mirage%22",
+        "text": "scholar"
+      },
+      {
+        "href": "https://www.jstor.org/action/doBasicSearch?Query=%22Mirage%22&amp;acc=on&amp;wc=on",
+        "text": "JSTOR"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Help:Maintenance_template_removal",
+        "text": "Learn how and when to remove this template message"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Farallon_Islands_at_inferior_mirage_no_mirage_and_superior_mirage.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Farallon_Islands_at_inferior_mirage_no_mirage_and_superior_mirage.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Optical_phenomena",
+        "text": "optical phenomenon"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Refraction",
+        "text": "refraction"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/English_language",
+        "text": "English"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/French_language",
+        "text": "French"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Latin",
+        "text": "Latin"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fata_Morgana_(mirage)",
+        "text": "Fata Morgana"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Hallucination",
+        "text": "hallucination"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Desertmirage.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Desertmirage.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mojave_Desert",
+        "text": "Mojave Desert"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Spring_(season)",
+        "text": "spring"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Inferior_Mirage_Grand_Traverse_Bay.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Inferior_Mirage_Grand_Traverse_Bay.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Grand_Traverse_Bay",
+        "text": "Grand Traverse Bay"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Michigan",
+        "text": "Michigan"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sky",
+        "text": "sky"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Ray_(optics)",
+        "text": "Light rays"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Refraction",
+        "text": "refracted"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Snell%27s_law",
+        "text": "angle"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Illusion",
+        "text": "illusion"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Specular_reflection",
+        "text": "specular reflection"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mirror",
+        "text": "mirror"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Density",
+        "text": "denser"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Turbulence",
+        "text": "turbulence"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Distortion",
+        "text": "distorted"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Looming_and_similar_refraction_phenomena#Towering",
+        "text": "towering"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Looming_and_similar_refraction_phenomena#Stooping",
+        "text": "stooping"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Planetary_boundary_layer",
+        "text": "temperature layers"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Angular_diameter",
+        "text": "angular diameter"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Hot_road_mirage.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Swiss_F-5E_at_Fairford.JPG",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Exhaust_gas",
+        "text": "exhaust gas"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Schlieren",
+        "text": "Schlieren"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Twinkling",
+        "text": "Twinkling"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Astronomical_seeing",
+        "text": "Astronomical seeing"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Air_mass_(astronomy)",
+        "text": "mass"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Asphalt_concrete",
+        "text": "asphalt concrete"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Tarmacadam",
+        "text": "tarmac"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Candle",
+        "text": "candles"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Patio_heater",
+        "text": "patio heaters"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Campfire",
+        "text": "campfires"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Exhaust_gas",
+        "text": "exhaust gases"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Jet_engine",
+        "text": "jet engines"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Convection",
+        "text": "Convection"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Gradient_index_optics",
+        "text": "gradient"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Refractive_index",
+        "text": "refractive index"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Schlieren",
+        "text": "shimmering effect"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Optical_resolution",
+        "text": "resolve"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Magnification",
+        "text": "magnified"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Telescope",
+        "text": "telescope"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Telephoto_lens",
+        "text": "telephoto lens"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Refraction",
+        "text": "refracted"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Haze",
+        "text": "haze"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:MirageAntarctique.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/McMurdo_Station",
+        "text": "McMurdo Station"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Cat_Mirage.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Temperature_inversion",
+        "text": "temperature inversion"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Polar_region",
+        "text": "polar regions"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fata_Morgana_(mirage)",
+        "text": "Fata Morgana"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Icelandic_language",
+        "text": "Icelandic language"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Curvature",
+        "text": "curvature of Earth"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Northeast_passage",
+        "text": "Northeast passage"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Novaya_Zemlya",
+        "text": "Novaya Zemlya"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Arctic_Circle",
+        "text": "Arctic Circle"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Novaya_Zemlya_effect",
+        "text": "Novaya Zemlya mirage"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Mirages_marins.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Mirages_marins.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Looming,_Towering,_Stooping,_and_Sinking",
+        "text": "elevated or lowered, stretched or shortened"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fata_Morgana_(mirage)",
+        "text": "Fata Morgana (mirage)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Morgan_le_Fay",
+        "text": "Morgan le Fay"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Polar_region",
+        "text": "polar regions"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Temperature_inversion",
+        "text": "temperature inversion"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Earth",
+        "text": "Earth"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Arc_(geometry)",
+        "text": "arcs"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Atmospheric_duct",
+        "text": "atmospheric duct"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Altitude",
+        "text": "altitude"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Atmosphere_of_Earth",
+        "text": "Earth's atmosphere"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/German_battleship_Bismarck",
+        "text": "Bismarck"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Farallons_islands_miragep.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Farallon_Islands",
+        "text": "Farallon Islands"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/San_Francisco",
+        "text": "San Francisco"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Farallons_islands_miragep_animated.gif",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mirage_of_astronomical_objects",
+        "text": "Mirage of astronomical objects"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Optical_phenomenon",
+        "text": "optical phenomenon"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Astronomical_object",
+        "text": "astronomical object"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sun",
+        "text": "Sun"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Moon",
+        "text": "Moon"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Planet",
+        "text": "planets"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Star",
+        "text": "stars"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Comet",
+        "text": "comets"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sunset",
+        "text": "sunset"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sunrise",
+        "text": "sunrise"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Atmospheric_refraction",
+        "text": "Atmospheric refraction"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Looming_and_similar_refraction_phenomena",
+        "text": "Looming and similar refraction phenomena"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Farallon_Islands",
+        "text": "Farallon Islands"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Green_flash",
+        "text": "green flash"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fata_Morgana_(mirage)",
+        "text": "Fata Morgana"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sea_level",
+        "text": "sea level"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Refractive_index",
+        "text": "refractive index"
+      },
+      {
+        "href": "https://www.merriam-webster.com/dictionary/mirage",
+        "text": "\"Definition of Mirage\""
+      },
+      {
+        "href": "https://www.bbc.co.uk/news/uk-england-cornwall-56286719",
+        "text": "\"'Hovering ship' photographed off Cornish coast by walker\""
+      },
+      {
+        "href": "https://www.theguardian.com/science/2021/mar/05/ship-hovering-above-sea-cornwall-optical-illusion",
+        "text": "\"Walker 'stunned' to see ship hovering high above sea off Cornwall\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/The_Guardian",
+        "text": "The Guardian"
+      },
+      {
+        "href": "https://aty.sdsu.edu/mirages/mirintro.html",
+        "text": "An Introduction to Mirages"
+      },
+      {
+        "href": "http://mintaka.sdsu.edu/GF/glossary.html#duct",
+        "text": "SDSU.edu"
+      },
+      {
+        "href": "http://mintaka.sdsu.edu/GF/bibliog/bibliog.html",
+        "text": "Annotated bibliography of mirages, green flashes, atmospheric refraction, etc"
+      },
+      {
+        "href": "https://books.google.com/books?id=4Abp5FdhskAC",
+        "text": "Color and Light in Nature"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/0-521-77504-3",
+        "text": "0-521-77504-3"
+      },
+      {
+        "href": "https://en.wiktionary.org/wiki/Special:Search/mirage",
+        "text": "mirage"
+      },
+      {
+        "href": "https://commons.wikimedia.org/wiki/Category:Mirages",
+        "text": "Mirages"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Wikisource",
+        "text": "Wikisource"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica_Eleventh_Edition",
+        "text": "1911 Encyclopædia Britannica"
+      },
+      {
+        "href": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Mirage",
+        "text": "Mirage"
+      },
+      {
+        "href": "http://mintaka.sdsu.edu/GF/mirages/mirintro.html",
+        "text": "All kind of mirages explained"
+      },
+      {
+        "href": "http://www.chinadaily.com.cn/photo/2006-05/08/content_583947.htm",
+        "text": "China daily, rare mirage in Penglai"
+      },
+      {
+        "href": "https://www.theguardian.com/science/2021/mar/05/ship-hovering-above-sea-cornwall-optical-illusion",
+        "text": "The superior mirage"
+      },
+      {
+        "href": "http://www.islandnet.com/~see/weather/elements/infmrge.htm",
+        "text": "The inferior mirage"
+      },
+      {
+        "href": "https://web.archive.org/web/20060218195616/http://www.sas.org/tcs/weeklyIssues/2004-09-10/gallery/index.html",
+        "text": "The highway mirage"
+      },
+      {
+        "href": "https://bigskywalker.com/2016/12/01/fata-morgana-from-the-cdt/",
+        "text": "Fata Morgana Mirage from the Continental Divide Trail"
+      },
+      {
+        "href": "http://www.sixtysymbols.com/videos/mirages.htm",
+        "text": "\"Mirages\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Brady_Haran",
+        "text": "Brady Haran"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/University_of_Nottingham",
+        "text": "University of Nottingham"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Help:Authority_control",
+        "text": "Authority control"
+      },
+      {
+        "href": "https://www.wikidata.org/wiki/Q308762#identifiers",
+        "text": ""
+      },
+      {
+        "href": "https://catalogue.bnf.fr/ark:/12148/cb131705686",
+        "text": "France"
+      },
+      {
+        "href": "https://data.bnf.fr/ark:/12148/cb131705686",
+        "text": "(data)"
+      },
+      {
+        "href": "http://uli.nli.org.il/F/?func=find-b&amp;local_base=NLX10&amp;find_code=UID&amp;request=987007538774905171",
+        "text": "Israel"
+      },
+      {
+        "href": "https://id.loc.gov/authorities/subjects/sh85085944",
+        "text": "United States"
+      },
+      {
+        "href": "https://id.ndl.go.jp/auth/ndlna/00571055",
+        "text": "Japan"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Help:Category",
+        "text": "Categories"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Atmospheric_optical_phenomena",
+        "text": "Atmospheric optical phenomena"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Optical_illusions",
+        "text": "Optical illusions"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Articles_with_short_description",
+        "text": "Articles with short description"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Short_description_matches_Wikidata",
+        "text": "Short description matches Wikidata"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Use_dmy_dates_from_October_2021",
+        "text": "Use dmy dates from October 2021"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Articles_needing_additional_references_from_January_2020",
+        "text": "Articles needing additional references from January 2020"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:All_articles_needing_additional_references",
+        "text": "All articles needing additional references"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Pages_using_multiple_image_with_auto_scaled_images",
+        "text": "Pages using multiple image with auto scaled images"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Commons_category_link_is_on_Wikidata",
+        "text": "Commons category link is on Wikidata"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Articles_with_BNF_identifiers",
+        "text": "Articles with BNF identifiers"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Articles_with_J9U_identifiers",
+        "text": "Articles with J9U identifiers"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Articles_with_LCCN_identifiers",
+        "text": "Articles with LCCN identifiers"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Articles_with_NDL_identifiers",
+        "text": "Articles with NDL identifiers"
+      }
+    ],
+    "text": "A mirage is a naturally-occurring optical phenomenon in which light rays bend via refraction to produce a displaced image of distant objects or the sky.&#91;1&#93; The word comes to English via the French(se) mirer, from the Latinmirari, meaning \"to look at, to wonder at\".&#91;2&#93;Mirages can be categorized as \"inferior\" (meaning lower), \"superior\" (meaning higher) and \"Fata Morgana\", one kind of superior mirage consisting of a series of unusually elaborate, vertically stacked images, which form one rapidly-changing mirage.\nIn contrast to a hallucination, a mirage is a real optical phenomenon that can be captured on camera, since light rays are actually refracted to form the false image at the observer's location. What the image appears to represent, however, is determined by the interpretive faculties of the human mind. For example, inferior images on land are very easily mistaken for the reflections from a small body of water.\nIn an inferior mirage, the mirage image appears below the real object. The real object in an inferior mirage is the (blue) sky or any distant (therefore bluish) object in that same direction. The mirage causes the observer to see a bright and bluish patch on the ground.\nLight rays coming from a particular distant object all travel through nearly the same layers of air, and all are refracted at about the same angle. Therefore, rays coming from the top of the object will arrive lower than those from the bottom. The image is usually upside-down, enhancing the illusion that the sky image seen in the distance is a specular reflection on a puddle of water or oil acting as a mirror.\n\nWhile the aero-dyanmics are highly active, the image of the inferior mirage is stable unlike the fata morgana which can change within seconds. Since warmer air rises while cooler air (being denser) sinks, the layers will mix, causing turbulence. The image will be distorted accordingly; it may vibrate or be stretched vertically (towering) or compressed vertically (stooping). A combination of vibration and extension are also possible. If several temperature layers are present, several mirages may mix, perhaps causing double images. In any case, mirages are usually not larger than about half a degree high (roughly the angular diameter of the Sun and Moon) and are from objects between dozens of meters and a few kilometers away.\nHeat haze, also called heat shimmer, refers to the inferior mirage observed when viewing objects through a mass of heated air. Common instances when heat haze occurs include images of objects viewed across asphalt concrete (also known as tarmac) roads and over masonry rooftops on hot days, above and behind fire (as in burning candles, patio heaters, and campfires), and through exhaust gases from jet engines. When appearing on roads due to the hot asphalt, it is often referred to as a \"highway mirage\". It also occurs in deserts; in that case, it is referred to as a \"desert mirage\". Both tarmac and sand can become very hot when exposed to the sun, easily being more than 10&#160;°C (18&#160;°F) higher than the air a meter (3.3 feet) above, enough to make conditions suitable to cause the mirage.\nConvection causes the temperature of the air to vary, and the variation between the hot air at the surface of the road and the denser cool air above it causes a gradient in the refractive index of the air. This produces a blurred shimmering effect, which hinders the ability to resolve the image and increases when the image is magnified through a telescope or telephoto lens.\nLight from the sky at a shallow angle to the road is refracted by the index gradient, making it appear as if the sky is reflected by the road's surface. This might appear as a pool of liquid (usually water, but possibly others, such as oil) on the road, as some types of liquid also reflect the sky. The illusion moves into the distance as the observer approaches the miraged object giving one the same effect as approaching a rainbow.\nHeat haze is not related to the atmospheric phenomenon of haze.\nA superior mirage is one in which the mirage image appears to be located above the real object.  A superior mirage occurs when the air below the line of sight is colder than the air above it. This unusual arrangement is called a temperature inversion, since warm air above cold air is the opposite of the normal temperature gradient of the atmosphere during the daytime. Passing through the temperature inversion, the light rays are bent down, and so the image appears above the true object, hence the name superior.&#91;3&#93;Superior mirages are quite common in polar regions, especially over large sheets of ice that have a uniform low temperature. Superior mirages also occur at more moderate latitudes, although in those cases they are weaker and tend to be less smooth and stable. For example, a distant shoreline may appear to tower and look higher (and, thus, perhaps closer) than it really is. Because of the turbulence, there appear to be dancing spikes and towers. This type of mirage is also called the Fata Morgana or hafgerðingar in the Icelandic language.&#91;4&#93;A superior mirage can be right-side up or upside-down, depending on the distance of the true object and the temperature gradient. Often the image appears as a distorted mixture of up and down parts.\nSince Earth is round, if the downward bending curvature of light rays is about the same as the curvature of Earth, light rays can travel large distances, including from beyond the horizon. This was observed and documented in 1596, when a ship in search of the Northeast passage became stuck in the ice at Novaya Zemlya, above the Arctic Circle. The Sun appeared to rise two weeks earlier than expected; the real Sun had still been below the horizon, but its light rays followed the curvature of Earth. This effect is often called a Novaya Zemlya mirage. For every 111.12 kilometres (69.05&#160;mi) that light rays travel parallel to Earth's surface, the Sun will appear 1° higher on the horizon. The inversion layer must have just the right temperature gradient over the whole distance to make this possible.\nIn the same way, ships that are so far away that they should not be visible above the geometric horizon may appear on or even above the horizon as superior mirages.&#91;5&#93; This may explain some stories about flying ships or coastal cities in the sky, as described by some polar explorers. These are examples of so-called Arctic mirages, or hillingar in Icelandic.\nIf the vertical temperature gradient is +12.9&#160;°C (23.2&#160;°F) per 100 meters/330 feet (where the positive sign means the temperature increases at higher altitudes) then horizontal light rays will just follow the curvature of Earth, and the horizon will appear flat. If the gradient is less (as it almost always is) the rays are not bent enough and get lost in space, which is the normal situation of a spherical, convex \"horizon\".\nIn some situations, distant objects can be elevated or lowered, stretched or shortened with no mirage involved.\nA Fata Morgana (the name comes from the Italian translation of Morgan le Fay, the fairy, shapeshifting half-sister of King Arthur) is a very complex superior mirage. It appears with alternations of compressed and stretched areas, erect images, and inverted images.&#91;6&#93; A Fata Morgana is also a fast-changing mirage.\nFata Morgana mirages are most common in polar regions, especially over large sheets of ice with a uniform low temperature, but they can be observed almost anywhere. In polar regions, a Fata Morgana may be observed on cold days; in desert areas and over oceans and lakes, a Fata Morgana may be observed on hot days. For a Fata Morgana, temperature inversion has to be strong enough that light rays' curvatures within the inversion are stronger than the curvature of Earth.&#91;6&#93;The rays will bend and form arcs. An observer needs to be within an atmospheric duct to be able to see a Fata Morgana.&#91;7&#93;\nFata Morgana mirages may be observed from any altitude within Earth's atmosphere, including from mountaintops or airplanes.&#91;8&#93;&#91;9&#93;Distortions of image and bending of light can produce spectacular effects. In his book Pursuit: The Chase and Sinking of the \"Bismarck\", Ludovic Kennedy describes an incident that allegedly took place below the Denmark Strait during 1941, following the sinking of the Hood. The Bismarck, while pursued by the British cruisers Norfolk and Suffolk, passed out of sight into a sea mist. Within a matter of seconds, the ship re-appeared steaming toward the British ships at high speed. In alarm the cruisers separated, anticipating an imminent attack, and observers from both ships watched in astonishment as the German battleship fluttered, grew indistinct and faded away. Radar watch during these events indicated that the Bismarck had in fact made no change to her course.\nThe conditions for producing a mirage can occur at night as well as during the day.  Under some circumstances mirages of astronomical objects and mirages of lights from moving vehicles, aircraft, ships, buildings, etc. can be observed at night.&#91;1&#93;A mirage of an astronomical object is a naturally occurring optical phenomenon in which light rays are bent to produce distorted or multiple images of an astronomical object.  Mirages can be observed for such astronomical objects as the Sun, the Moon, the planets, bright stars, and very bright comets. The most commonly observed are sunset and sunrise mirages.\n",
+    "imageNames": [
+      "50px-Question_book-new.svg.png",
+      "330px-Farallon_Islands_at_inferior_mirage_no_mirage_and_superior_mirage.jpg",
+      "220px-Desertmirage.jpg",
+      "220px-Inferior_Mirage_Grand_Traverse_Bay.jpg",
+      "258px-Hot_road_mirage.jpg",
+      "226px-Swiss_F-5E_at_Fairford.JPG",
+      "200px-MirageAntarctique.jpg",
+      "200px-Cat_Mirage.jpg",
+      "220px-Mirages_marins.jpg",
+      "244px-Farallons_islands_miragep.jpg",
+      "Farallons_islands_miragep_animated.gif",
+      "40px-Wiktionary-logo-en-v2.svg.png",
+      "30px-Commons-logo.svg.png",
+      "38px-Wikisource-logo.svg.png",
+      "10px-OOjs_UI_icon_edit-ltr-progressive.svg.png"
+    ]
+  }
+}

@@ -1,10 +1,10 @@
 const https = require('https');
 const JSSoup = require('jssoup').default;
 const fs = require('fs');
-const url = "https://en.wikipedia.org/wiki/Apple";//FIRST, find a url of a page on Wikipedia that you are interested in
+const url = 'https://en.wikipedia.org/wiki/Mirage';
 const jsonPath = "./json/"; 
 const imagePath = "./images/"; 
-const name = "apple";//
+const name = "Mirage";
 
 
 /*
@@ -12,9 +12,65 @@ This web-scraping example is set up for working with wikipedia.If you want to ad
 to scrape another site you should go and inspect the site in the browser first, then adapt this. 
 */
 
+
+//removes links that allows you to edit the wikipedia page & links to anchor tags on the page i.e. ones that start with #
+function getAllExternalLinks(soupTag){
+    let aTags = soupTag.findAll('a'); // return an array of SoupTag object
+    let links = [];
+   
+    for(let i = 0; i < aTags.length; i++){
+        let attrs = aTags[i].attrs;// get a tag attributes
+        // if there is an href attribute let's get it
+        if('href' in attrs){
+            let hrefValue = attrs.href;
+            if(hrefValue.indexOf('index.php') == -1 && hrefValue[0] != '#' ){
+                //add the start 'https://en.wikipedia.org' to any internal wikipedia urls 
+                if(hrefValue.indexOf('/wiki/') != -1 && hrefValue.indexOf('.org') == -1){
+                    hrefValue = 'https://en.wikipedia.org'+hrefValue;
+                }
+
+                let text = aTags[i].getText();
+                let link = {
+                    "href": hrefValue,
+                    "text": text
+                };
+
+                links.push(link);
+            }else{
+                // console.log(hrefValue);
+            }
+        }
+ 
+    }
+
+    return links;
+}
+
+//returns array of strings, one string for each paragraph
+function getParagraphs(soupTag){
+    let paragraphs = soupTag.findAll('p');
+    let paragraphsText = [];
+    for(let i = 0; i < paragraphs.length; i++){
+        let text = paragraphs[i].getText();
+        paragraphsText.push(text);
+    }
+
+    return paragraphsText;
+}
+
+//returns one large string of all text
+function getParagraphText(soupTag){
+    let paragraphs = soupTag.findAll('p');
+    let text = '';
+    for(let i = 0; i < paragraphs.length; i++){
+        text += paragraphs[i].getText();
+    }
+
+    return text;
+}
+
+
 //get all image urls from the soup
-//looking for attribute
-//store image (image alt src)
 function getAllImages(soupTag){
     let imgs = soupTag.findAll('img');
     let imgUrls = [];
@@ -24,7 +80,6 @@ function getAllImages(soupTag){
         // if there is an href attribute let's get it
         if('src' in attrs){
             let src = attrs.src;
-            //not there, then ignore
             if(src.indexOf("wiki/Special:") == -1){ //these are not images
                 if(src.indexOf("https:") == -1){
                     src = "https:"+src;
@@ -51,9 +106,8 @@ function getImageNames(imageUrls){
 }
 
 //split url on the "/" character and get the last element from 
-//the returned array which will give us the file name(in website)
+//the returned array which will give us the file name
 function getName(url){
-    //find the last part
     let parts = url.split("/");
     let name = parts[parts.length-1];
     return name;
@@ -71,12 +125,11 @@ function recursiveDownload(imageUrlArray,i){
             //200 is a successful https get request status code
             if (res.statusCode === 200) {
                 //takes the readable stream, the response from the get request, and pipes to a writeable stream
-                
                 res.pipe(fs.createWriteStream(imagePath+"/"+getName(imageUrlArray[i])))
                     .on('error', (e) => {
                         console.log(e);
                         recursiveDownload (imageUrlArray, i+1); //skip any failed ones
-                    })//sucsess then save
+                    })
                     .once('close', ()  => {
                         console.log("File saved");
                         recursiveDownload (imageUrlArray, i+1); //download the next image
@@ -84,7 +137,6 @@ function recursiveDownload(imageUrlArray,i){
             } else {
                 console.log(`Image Request Failed With a Status Code: ${res.statusCode}`);
                 recursiveDownload (imageUrlArray, i+1); //skip any failed ones
-                //if it doesn't work ,call it again until more
             }
 
         });
@@ -99,7 +151,7 @@ function writeJSON(data){
         fs.writeFileSync(path, JSON.stringify(data, null, 2), "utf8");
         console.log("JSON file successfully saved");
     } catch (error) {
-        console.log("An error has occurred", error);
+        console.log("An error has occurred ", error);
     }
 }
 
@@ -112,14 +164,22 @@ function createSoup(document){
         "content": {}
     }; 
 
-    // let main = soup.find('main');//only get the content from the main tag of the page
+    //only get the content from the main tag of the page
+    let main = soup.find('main');
+
+    //find get an element by id
     let bodyContent = soup.find('div', { id: 'bodyContent' });
+    // let classExample = soup.findAll('div', { class: 'className' });//returns array of tags
+ 
     let images = getAllImages(bodyContent);
 
     data.content = {
-        "imageNames": getImageNames(images) //store the array of image names in json file
+        "externalLinks": getAllExternalLinks(bodyContent),
+        "text": getParagraphText(main),
+        "imageNames": getImageNames(images)
     };
         
+
     //output json
     writeJSON(data);
 

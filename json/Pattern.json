@@ -1,0 +1,1740 @@
+{
+  "name": "Pattern",
+  "url": "https://en.wikipedia.org/wiki/Pattern",
+  "content": {
+    "externalLinks": [
+      {
+        "href": "https://en.wikipedia.org/wiki/Pattern_(disambiguation)",
+        "text": "Pattern (disambiguation)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Ionic_frieze_from_the_Erechtheum,_dimensions_130_x_50_cm,_in_the_Glyptothek.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Kleophrades_Painter_ARV_189_78bis_mission_to_Achilles.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:William_Morris_-_%22Pimpernel%22_-_Google_Art_Project.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Strawberrythief.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Settee_MET_SF2007_368_img4.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Nikoxenos_Painter_ARV_221_14_athletes_with_trainer_and_flute_player_-_satyrs_as_athletes_(05).jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:D.A._Sturdza_House,_Bucharest_(Romania)_32.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Abstraction",
+        "text": "abstract"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Geometry",
+        "text": "geometric"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Shape",
+        "text": "shapes"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Wallpaper",
+        "text": "wallpaper"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sense",
+        "text": "senses"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Science",
+        "text": "science"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mathematics",
+        "text": "mathematics"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Language",
+        "text": "language"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Patterns_in_nature",
+        "text": "patterns in nature"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Chaos_theory",
+        "text": "chaotic"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fractals",
+        "text": "fractals"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Spirals",
+        "text": "spirals"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Meander",
+        "text": "meanders"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Wave",
+        "text": "waves"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Foam",
+        "text": "foams"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Tessellation",
+        "text": "tilings"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fracture",
+        "text": "cracks"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Symmetry",
+        "text": "symmetries"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Rotation_symmetry",
+        "text": "rotation"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Reflection_symmetry",
+        "text": "reflection"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mathematics",
+        "text": "mathematical"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Motif_(visual_arts)",
+        "text": "visual motifs"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Software_design_pattern",
+        "text": "software design pattern"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Die_(manufacturing)",
+        "text": "template"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Decorative_arts",
+        "text": "decorative arts"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Wallpaper",
+        "text": "wallpaper"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Patterns_in_nature",
+        "text": "Patterns in nature"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Symmetry",
+        "text": "symmetries"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fractal",
+        "text": "fractal"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Spirals",
+        "text": "spirals"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Meander",
+        "text": "meanders"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Wave",
+        "text": "waves"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Foam",
+        "text": "foams"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Tessellation",
+        "text": "tilings"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fracture",
+        "text": "cracks"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Schnee1.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Schnee1.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Snowflake",
+        "text": "Snowflake"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Dihedral_symmetry",
+        "text": "sixfold symmetry"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Reflection_symmetry",
+        "text": "mirror symmetry"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Rotational_symmetry",
+        "text": "rotational symmetry"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sea_anemone",
+        "text": "sea anemones"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Echinoderms",
+        "text": "echinoderms"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Starfish",
+        "text": "starfish"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sea_urchin",
+        "text": "sea urchins"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sea_lilies",
+        "text": "sea lilies"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Snowflake",
+        "text": "snowflakes"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Dihedral_symmetry",
+        "text": "sixfold symmetry"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Crystal",
+        "text": "Crystals"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Crystal_habit",
+        "text": "crystal symmetries"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Octahedral",
+        "text": "octahedral"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Quasicrystals",
+        "text": "quasicrystals"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Aloe_polyphylla_spiral.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Aloe_polyphylla_spiral.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Aloe_polyphylla",
+        "text": "Aloe polyphylla"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Phyllotaxis",
+        "text": "phyllotaxis"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Molluscs",
+        "text": "molluscs"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Nautilus",
+        "text": "nautilus"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Phyllotaxis",
+        "text": "phyllotaxis"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sunflower",
+        "text": "sunflower"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Pineapple",
+        "text": "pineapple"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Vortex-street-1.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Vortex-street-1.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Vortex_street",
+        "text": "Vortex street"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Chaos_theory",
+        "text": "Chaos theory"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Physics",
+        "text": "physics"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Deterministic",
+        "text": "deterministic"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Vortex_street",
+        "text": "vortex streets"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Meander",
+        "text": "meanders"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Sand_dune_ripples.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Sand_dune_ripples.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Dune",
+        "text": "Dune"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Capillary_wave",
+        "text": "ripple"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:M%C3%B6nster_-_Sand_-_Br%C3%A4dor_-_2021.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:M%C3%B6nster_-_Sand_-_Br%C3%A4dor_-_2021.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Wave",
+        "text": "Waves"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mechanical_wave",
+        "text": "Mechanical waves"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Oscillation",
+        "text": "oscillate"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Wind_wave",
+        "text": "Wind waves"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Surface_wave",
+        "text": "surface waves"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Dune",
+        "text": "dunes"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Foam_-_big.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Foam_-_big.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Foam",
+        "text": "Foam"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Soap_bubble",
+        "text": "soap bubbles"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Foam",
+        "text": "Foams"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Plateau%27s_laws",
+        "text": "Plateau's laws"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mean_curvature",
+        "text": "average curvature"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Radiolarian",
+        "text": "radiolarians"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sponge",
+        "text": "sponge"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Spicule_(sponge)",
+        "text": "spicules"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Silicoflagellate",
+        "text": "silicoflagellates"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sea_urchin",
+        "text": "sea urchins"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Cracked_earth_in_the_Rann_of_Kutch.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Cracked_earth_in_the_Rann_of_Kutch.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fracture",
+        "text": "Cracks"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fracture",
+        "text": "Cracks"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Giant_Pufferfish_skin_pattern_detail.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Giant_Pufferfish_skin_pattern_detail.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mbu_pufferfish",
+        "text": "Mbu pufferfish"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Pattern_formation",
+        "text": "Pattern formation"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Alan_Turing",
+        "text": "Alan Turing"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/James_D._Murray",
+        "text": "James D. Murray"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Reaction%E2%80%93diffusion",
+        "text": "reaction–diffusion"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Spatiotemporal_pattern",
+        "text": "spatiotemporal patterns"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Animal_skin.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Animal_skin.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Enderun_library_Topkapi_42.JPG",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Enderun_library_Topkapi_42.JPG",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Topkapi_Palace",
+        "text": "Topkapi Palace"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mathematics_and_art",
+        "text": "Mathematics and art"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mathematics_and_architecture",
+        "text": "Mathematics and architecture"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Tessellation",
+        "text": "Tessellation"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Tile",
+        "text": "Tile"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Painting",
+        "text": "painting"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Drawing",
+        "text": "drawing"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Tapestry",
+        "text": "tapestry"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Tile",
+        "text": "tiling"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Carpet",
+        "text": "carpet"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Tessellation",
+        "text": "tessellation"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Zen",
+        "text": "Zen"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Hatching",
+        "text": "cross hatching,"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mosaic",
+        "text": "mosaic"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Doodle",
+        "text": "doodle"
+      },
+      {
+        "href": "https://www.thearts.studio/zentangles.html",
+        "text": "[1]"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Hampi1.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Hampi1.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fractal",
+        "text": "fractal"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Pattern_(architecture)",
+        "text": "Pattern (architecture)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mathematics_and_architecture",
+        "text": "Mathematics and architecture"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Motif_(visual_arts)",
+        "text": "motifs"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Column",
+        "text": "columns"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Pediment",
+        "text": "pediments"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Lintel",
+        "text": "lintels"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fractal",
+        "text": "fractal"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Evening_columns_Zeus_temple_Athens.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Evening_columns_Zeus_temple_Athens.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Pattern_book",
+        "text": "pattern book"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Fractal_fern_explained.png",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Fractal_fern_explained.png",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Self-similar",
+        "text": "self-similarity"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mathematics",
+        "text": "Mathematics"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sequence",
+        "text": "sequence"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Patterns_in_nature",
+        "text": "patterns in nature"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fractal",
+        "text": "Fractals"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Self-similarity",
+        "text": "Self-similarity"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Pattern_formation",
+        "text": "formation"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Lindenmayer_system",
+        "text": "Lindenmayer systems"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Tree",
+        "text": "tree"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Pattern_theory",
+        "text": "pattern theory"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Ulf_Grenander",
+        "text": "Ulf Grenander"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Software_design_pattern",
+        "text": "software design pattern"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Template_method_pattern",
+        "text": "template"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Pattern_(sewing)",
+        "text": "Pattern (sewing)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Die_(manufacturing)",
+        "text": "template"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Archetype",
+        "text": "Archetype"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Cellular_automata",
+        "text": "Cellular automata"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Form_constant",
+        "text": "Form constant"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fractal",
+        "text": "Fractal"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Pattern_(sewing)",
+        "text": "Pattern (sewing)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Pattern_coin",
+        "text": "Pattern coin"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Pattern_matching",
+        "text": "Pattern matching"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Pattern_recognition",
+        "text": "Pattern recognition"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Pattern_(casting)",
+        "text": "Pattern (casting)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Patterns_in_nature",
+        "text": "Patterns in nature"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Pedagogical_patterns",
+        "text": "Pedagogical patterns"
+      },
+      {
+        "href": "https://www.achrafgarai.com/what-are-design-patterns/",
+        "text": "\"What are design patterns?\""
+      },
+      {
+        "href": "https://www.worldcat.org/oclc/50272461",
+        "text": "What shape is a snowflake?"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/0-297-60723-5",
+        "text": "0-297-60723-5"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/OCLC_(identifier)",
+        "text": "OCLC"
+      },
+      {
+        "href": "https://www.worldcat.org/oclc/50272461",
+        "text": "50272461"
+      },
+      {
+        "href": "http://www.scipress.org/journals/forma/pdf/1904/19040335.pdf",
+        "text": "\"Growth in Plants: A Study in Number\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Bibcode_(identifier)",
+        "text": "Bibcode"
+      },
+      {
+        "href": "https://ui.adsabs.harvard.edu/abs/1986SciAm.255f..46C",
+        "text": "1986SciAm.255f..46C"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+        "text": "doi"
+      },
+      {
+        "href": "https://doi.org/10.1038%2Fscientificamerican1286-46",
+        "text": "10.1038/scientificamerican1286-46"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ArXiv_(identifier)",
+        "text": "arXiv"
+      },
+      {
+        "href": "https://arxiv.org/abs/1601.00844",
+        "text": "1601.00844"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Bibcode_(identifier)",
+        "text": "Bibcode"
+      },
+      {
+        "href": "https://ui.adsabs.harvard.edu/abs/2016OExpr..2415478C",
+        "text": "2016OExpr..2415478C"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+        "text": "doi"
+      },
+      {
+        "href": "https://doi.org/10.1364%2FOE.24.015478",
+        "text": "10.1364/OE.24.015478"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/PMID_(identifier)",
+        "text": "PMID"
+      },
+      {
+        "href": "https://pubmed.ncbi.nlm.nih.gov/27410822",
+        "text": "27410822"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/S2CID_(identifier)",
+        "text": "S2CID"
+      },
+      {
+        "href": "https://api.semanticscholar.org/CorpusID:34610459",
+        "text": "34610459"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/978-0070676022",
+        "text": "978-0070676022"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/978-0486434858",
+        "text": "978-0486434858"
+      },
+      {
+        "href": "https://web.archive.org/web/20110929075022/http://www.ecs.syr.edu/faculty/lewalle/FluidDynamics/fluidsCh9.pdf",
+        "text": "\"Flow Separation and Secondary Flow: Section 9.1\""
+      },
+      {
+        "href": "http://www.ecs.syr.edu/faculty/lewalle/FluidDynamics/fluidsCh9.pdf",
+        "text": "the original"
+      },
+      {
+        "href": "https://dipot.ulb.ac.be/dspace/bitstream/2013/127366/1/1994Chaos_Solitons_and_Fractals_4_1323-1354.pdf",
+        "text": "\"Pattern formation in a passive Kerr cavity\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Bibcode_(identifier)",
+        "text": "Bibcode"
+      },
+      {
+        "href": "https://ui.adsabs.harvard.edu/abs/1994CSF.....4.1323S",
+        "text": "1994CSF.....4.1323S"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+        "text": "doi"
+      },
+      {
+        "href": "https://doi.org/10.1016%2F0960-0779%2894%2990084-1",
+        "text": "10.1016/0960-0779(94)90084-1"
+      },
+      {
+        "href": "http://polar.ncep.noaa.gov/mmab/papers/tn270/Howard_08.pdf",
+        "text": "CBMS Conference Proceedings on Water Waves: Theory and Experiment"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Template:Citation",
+        "text": "citation"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:CS1_maint:_location",
+        "text": "link"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Frederick_J._Almgren,_Jr.",
+        "text": "Frederick J. Almgren, Jr."
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Jean_E._Taylor",
+        "text": "Jean E. Taylor"
+      },
+      {
+        "href": "https://doi.org/10.1098%2Frstb.1952.0012",
+        "text": "\"The Chemical Basis of Morphogenesis\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Philosophical_Transactions_of_the_Royal_Society_B",
+        "text": "Philosophical Transactions of the Royal Society B"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Bibcode_(identifier)",
+        "text": "Bibcode"
+      },
+      {
+        "href": "https://ui.adsabs.harvard.edu/abs/1952RSPTB.237...37T",
+        "text": "1952RSPTB.237...37T"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+        "text": "doi"
+      },
+      {
+        "href": "https://doi.org/10.1098%2Frstb.1952.0012",
+        "text": "10.1098/rstb.1952.0012"
+      },
+      {
+        "href": "https://books.google.com/books?id=K3LmCAAAQBAJ&amp;pg=PA436",
+        "text": "Mathematical Biology"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/978-3-662-08539-4",
+        "text": "978-3-662-08539-4"
+      },
+      {
+        "href": "http://char.txa.cornell.edu/language/element/pattern/pattern.htm",
+        "text": "\"Art, Design, and Visual Thinking\""
+      },
+      {
+        "href": "https://archive.org/details/isbn_0716711931",
+        "text": "Tilings and Patterns"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/9780716711933",
+        "text": "9780716711933"
+      },
+      {
+        "href": "https://zentangle.com/",
+        "text": "\"Zentangle\""
+      },
+      {
+        "href": "https://www.sciencedirect.com/science/article/pii/S0033350621002237",
+        "text": "\"Effects of Zentangle art workplace health promotion activities on rural healthcare workers\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Public_Health",
+        "text": "Public Health"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+        "text": "doi"
+      },
+      {
+        "href": "https://doi.org/10.1016%2Fj.puhe.2021.05.033",
+        "text": "10.1016/j.puhe.2021.05.033"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/PMID_(identifier)",
+        "text": "PMID"
+      },
+      {
+        "href": "https://pubmed.ncbi.nlm.nih.gov/34274696",
+        "text": "34274696"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/S2CID_(identifier)",
+        "text": "S2CID"
+      },
+      {
+        "href": "https://api.semanticscholar.org/CorpusID:236092775",
+        "text": "236092775"
+      },
+      {
+        "href": "https://pubmed.ncbi.nlm.nih.gov/35943847/",
+        "text": "\"The effects of Zentangles on affective well-being among adults\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/American_Journal_of_Occupational_Therapy",
+        "text": "American Journal of Occupational Therapy"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+        "text": "doi"
+      },
+      {
+        "href": "https://doi.org/10.5014%2Fajot.2022.049113",
+        "text": "10.5014/ajot.2022.049113"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/PMID_(identifier)",
+        "text": "PMID"
+      },
+      {
+        "href": "https://pubmed.ncbi.nlm.nih.gov/35943847",
+        "text": "35943847"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/S2CID_(identifier)",
+        "text": "S2CID"
+      },
+      {
+        "href": "https://api.semanticscholar.org/CorpusID:251444115",
+        "text": "251444115"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+        "text": "doi"
+      },
+      {
+        "href": "https://doi.org/10.2307%2F2214851",
+        "text": "10.2307/2214851"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/JSTOR_(identifier)",
+        "text": "JSTOR"
+      },
+      {
+        "href": "https://www.jstor.org/stable/2214851",
+        "text": "2214851"
+      },
+      {
+        "href": "https://web.archive.org/web/20130207065047/http://www.coas.howard.edu/mathematics/faculty/bayne/patterns.html",
+        "text": "\"MATH 012 Patterns in Mathematics - spring 2012\""
+      },
+      {
+        "href": "http://www.coas.howard.edu/mathematics/faculty/bayne/patterns.html",
+        "text": "the original"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Benoit_Mandelbrot",
+        "text": "Mandelbrot, Benoit B."
+      },
+      {
+        "href": "https://books.google.com/books?id=0R2LkE3N7-oC",
+        "text": "The fractal geometry of nature"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/978-0-7167-1186-5",
+        "text": "978-0-7167-1186-5"
+      },
+      {
+        "href": "http://www.cfa.harvard.edu/smg/Website/UCP/",
+        "text": "\"Causal Patterns in Science\""
+      },
+      {
+        "href": "https://illustratorstuff.com/",
+        "text": "\"An Artist Centric Marketplace for Fashion Sketch Templates, Croquis &amp; More\""
+      },
+      {
+        "href": "https://en.wiktionary.org/wiki/pattern",
+        "text": "pattern"
+      },
+      {
+        "href": "https://commons.wikimedia.org/wiki/Category:Patterns",
+        "text": "Patterns"
+      },
+      {
+        "href": "https://en.wikiquote.org/wiki/Special:Search/Pattern",
+        "text": "Pattern"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Philip_Ball",
+        "text": "Ball, Philip"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Bernhard_Edmaier",
+        "text": "Edmaier, Bernhard"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Phaidon_Press",
+        "text": "Phaidon Press"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Ernst_Haeckel",
+        "text": "Haeckel, Ernst"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Art_Forms_of_Nature",
+        "text": "Art Forms of Nature"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Ian_Stewart_(mathematician)",
+        "text": "Stewart, Ian"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Weidenfeld_%26_Nicolson",
+        "text": "Weidenfeld &amp; Nicolson"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/D%27Arcy_Wentworth_Thompson",
+        "text": "Thompson, D'Arcy W."
+      },
+      {
+        "href": "https://archive.org/details/ongrowthform00thom",
+        "text": "On Growth and Form"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/0-486-67135-6",
+        "text": "0-486-67135-6"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Christopher_Alexander",
+        "text": "Alexander, C."
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Design_Patterns",
+        "text": "Design Patterns"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Template:Metaphysics",
+        "text": "v"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Template_talk:Metaphysics",
+        "text": "t"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Metaphysics",
+        "text": "Metaphysics"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Parmenides",
+        "text": "Parmenides"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Plato",
+        "text": "Plato"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Aristotle",
+        "text": "Aristotle"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Plotinus",
+        "text": "Plotinus"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Duns_Scotus",
+        "text": "Duns Scotus"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Thomas_Aquinas",
+        "text": "Thomas Aquinas"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Francisco_Su%C3%A1rez",
+        "text": "Francisco Suárez"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Nicolas_Malebranche",
+        "text": "Nicolas Malebranche"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes",
+        "text": "René Descartes"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/John_Locke",
+        "text": "John Locke"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/David_Hume",
+        "text": "David Hume"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Thomas_Reid",
+        "text": "Thomas Reid"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Immanuel_Kant",
+        "text": "Immanuel Kant"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Isaac_Newton",
+        "text": "Isaac Newton"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Arthur_Schopenhauer",
+        "text": "Arthur Schopenhauer"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Baruch_Spinoza",
+        "text": "Baruch Spinoza"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel",
+        "text": "Georg W. F. Hegel"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/George_Berkeley",
+        "text": "George Berkeley"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz",
+        "text": "Gottfried Wilhelm Leibniz"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Christian_Wolff_(philosopher)",
+        "text": "Christian Wolff"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Bernard_Bolzano",
+        "text": "Bernard Bolzano"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Hermann_Lotze",
+        "text": "Hermann Lotze"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Henri_Bergson",
+        "text": "Henri Bergson"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Friedrich_Nietzsche",
+        "text": "Friedrich Nietzsche"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Charles_Sanders_Peirce",
+        "text": "Charles Sanders Peirce"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Joseph_Mar%C3%A9chal",
+        "text": "Joseph Maréchal"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Ludwig_Wittgenstein",
+        "text": "Ludwig Wittgenstein"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Martin_Heidegger",
+        "text": "Martin Heidegger"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Alfred_North_Whitehead",
+        "text": "Alfred N. Whitehead"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Bertrand_Russell",
+        "text": "Bertrand Russell"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/G._E._Moore",
+        "text": "G. E. Moore"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Gilles_Deleuze",
+        "text": "Gilles Deleuze"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Jean-Paul_Sartre",
+        "text": "Jean-Paul Sartre"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Gilbert_Ryle",
+        "text": "Gilbert Ryle"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Hilary_Putnam",
+        "text": "Hilary Putnam"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/P._F._Strawson",
+        "text": "P. F. Strawson"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/R._G._Collingwood",
+        "text": "R. G. Collingwood"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Rudolf_Carnap",
+        "text": "Rudolf Carnap"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Saul_Kripke",
+        "text": "Saul Kripke"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Willard_Van_Orman_Quine",
+        "text": "W. V. O. Quine"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/G._E._M._Anscombe",
+        "text": "G. E. M. Anscombe"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Donald_Davidson_(philosopher)",
+        "text": "Donald Davidson"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Michael_Dummett",
+        "text": "Michael Dummett"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/David_Malet_Armstrong",
+        "text": "D. M. Armstrong"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/David_Lewis_(philosopher)",
+        "text": "David Lewis"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Alvin_Plantinga",
+        "text": "Alvin Plantinga"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/H%C3%A9ctor-Neri_Casta%C3%B1eda",
+        "text": "Héctor-Neri Castañeda"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Peter_van_Inwagen",
+        "text": "Peter van Inwagen"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Derek_Parfit",
+        "text": "Derek Parfit"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Alexius_Meinong",
+        "text": "Alexius Meinong"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Ernst_Mally",
+        "text": "Ernst Mally"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Edward_N._Zalta",
+        "text": "Edward N. Zalta"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/List_of_metaphysicians",
+        "text": "more ..."
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Abstract_object_theory",
+        "text": "Abstract object theory"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Action_theory_(philosophy)",
+        "text": "Action theory"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Anti-realism",
+        "text": "Anti-realism"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Determinism",
+        "text": "Determinism"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mind%E2%80%93body_dualism",
+        "text": "Dualism"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Enactivism",
+        "text": "Enactivism"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Essentialism",
+        "text": "Essentialism"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Existentialism",
+        "text": "Existentialism"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Free_will",
+        "text": "Free will"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Idealism",
+        "text": "Idealism"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Libertarianism_(metaphysics)",
+        "text": "Libertarianism"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Liberty",
+        "text": "Liberty"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Materialism",
+        "text": "Materialism"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Meaning_of_life",
+        "text": "Meaning of life"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Monism",
+        "text": "Monism"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Naturalism_(philosophy)",
+        "text": "Naturalism"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Nihilism",
+        "text": "Nihilism"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Phenomenalism",
+        "text": "Phenomenalism"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Philosophical_realism",
+        "text": "Realism"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Physicalism",
+        "text": "Physicalism"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Relativism",
+        "text": "Relativism"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Scientific_realism",
+        "text": "Scientific realism"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Solipsism",
+        "text": "Solipsism"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Subjectivism",
+        "text": "Subjectivism"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Substance_theory",
+        "text": "Substance theory"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Truthmaker_theory",
+        "text": "Truthmaker theory"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Type_theory",
+        "text": "Type theory"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Abstract_and_concrete",
+        "text": "Abstract object"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Anima_mundi",
+        "text": "Anima mundi"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category_of_being",
+        "text": "Category of being"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Causality",
+        "text": "Causality"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Causal_closure",
+        "text": "Causal closure"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Choice",
+        "text": "Choice"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Cogito,_ergo_sum",
+        "text": "Cogito, ergo sum"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Concept",
+        "text": "Concept"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Embodied_cognition",
+        "text": "Embodied cognition"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Essence",
+        "text": "Essence"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Existence",
+        "text": "Existence"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Experience",
+        "text": "Experience"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Hypostatic_abstraction",
+        "text": "Hypostatic abstraction"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Idea",
+        "text": "Idea"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Identity_(philosophy)",
+        "text": "Identity"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Information",
+        "text": "Information"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Insight",
+        "text": "Insight"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Intelligence",
+        "text": "Intelligence"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Intention",
+        "text": "Intention"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Linguistic_modality",
+        "text": "Linguistic modality"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Matter_(philosophy)",
+        "text": "Matter"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Meaning_(existential)",
+        "text": "Meaning"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mental_representation",
+        "text": "Mental representation"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mind",
+        "text": "Mind"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Motion",
+        "text": "Motion"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Nature_(philosophy)",
+        "text": "Nature"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Metaphysical_necessity",
+        "text": "Necessity"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Object_(philosophy)",
+        "text": "Object"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Perception",
+        "text": "Perception"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Physical_object",
+        "text": "Physical object"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Principle",
+        "text": "Principle"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Property_(philosophy)",
+        "text": "Property"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Qualia",
+        "text": "Qualia"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Quality_(philosophy)",
+        "text": "Quality"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Reality",
+        "text": "Reality"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Relations_(philosophy)",
+        "text": "Relation"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Soul",
+        "text": "Soul"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Subject_(philosophy)",
+        "text": "Subject"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Substantial_form",
+        "text": "Substantial form"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Thought",
+        "text": "Thought"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Time",
+        "text": "Time"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Truth",
+        "text": "Truth"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Type%E2%80%93token_distinction",
+        "text": "Type–token distinction"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Universal_(metaphysics)",
+        "text": "Universal"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Unobservable",
+        "text": "Unobservable"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Value_(ethics)",
+        "text": "Value"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Index_of_metaphysics_articles",
+        "text": "more ..."
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Axiology",
+        "text": "Axiology"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Cosmology",
+        "text": "Cosmology"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Epistemology",
+        "text": "Epistemology"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Feminist_metaphysics",
+        "text": "Feminist metaphysics"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Interpretations_of_quantum_mechanics",
+        "text": "Interpretations of quantum mechanics"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mereology",
+        "text": "Mereology"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Meta",
+        "text": "Meta-"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Ontology",
+        "text": "Ontology"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Philosophy_of_mind",
+        "text": "Philosophy of mind"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Philosophy_of_psychology",
+        "text": "Philosophy of psychology"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Philosophy_of_self",
+        "text": "Philosophy of self"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Philosophy_of_space_and_time",
+        "text": "Philosophy of space and time"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Teleology",
+        "text": "Teleology"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Metaphysics",
+        "text": "Category"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Portal:Philosophy",
+        "text": "Philosophy&#32;portal"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Help:Category",
+        "text": "Categories"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Patterns",
+        "text": "Patterns"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Concepts_in_epistemology",
+        "text": "Concepts in epistemology"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Concepts_in_metaphysics",
+        "text": "Concepts in metaphysics"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Concepts_in_the_philosophy_of_mind",
+        "text": "Concepts in the philosophy of mind"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Concepts_in_the_philosophy_of_science",
+        "text": "Concepts in the philosophy of science"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Design",
+        "text": "Design"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:CS1_maint:_location",
+        "text": "CS1 maint: location"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Articles_with_short_description",
+        "text": "Articles with short description"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Short_description_is_different_from_Wikidata",
+        "text": "Short description is different from Wikidata"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Pages_using_multiple_image_with_auto_scaled_images",
+        "text": "Pages using multiple image with auto scaled images"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Commons_category_link_is_on_Wikidata",
+        "text": "Commons category link is on Wikidata"
+      }
+    ],
+    "text": "A pattern is a regularity in the world, in human-made design,&#91;1&#93; or in abstract ideas. As such, the elements of a pattern repeat in a predictable manner. A geometric pattern is a kind of pattern formed of geometricshapes and typically repeated like a wallpaper design.\nAny of the senses may directly observe patterns. Conversely, abstract patterns in science, mathematics, or language may be observable only by analysis. Direct observation in practice means seeing visual patterns, which are widespread in nature and in art. Visual patterns in nature are often chaotic, rarely exactly repeating, and often involve fractals. Natural patterns include spirals, meanders, waves, foams, tilings, cracks, and those created by symmetries of rotation and reflection. Patterns have an underlying mathematical structure;&#91;2&#93;&#58;&#8202;6&#8202; indeed, mathematics can be seen as the search for regularities, and the output of any function is a mathematical pattern. Similarly in the sciences, theories explain and predict regularities in the world.\nIn art and architecture, decorations or visual motifs may be combined and repeated to form patterns designed to have a chosen effect on the viewer. In computer science, a software design pattern is a known solution to a class of problems in programming. In fashion, the pattern is a template used to create any number of similar garments.\nIn many areas of the decorative arts, from ceramics and textiles to wallpaper, \"pattern\" is used for an ornamental design that is manufactured, perhaps for many different shapes of object.\nNature provides examples of many kinds of pattern, including symmetries, trees and other structures with a fractal dimension, spirals, meanders, waves, foams, tilings, cracks and stripes.&#91;3&#93;Symmetry is widespread in living things. Animals that move usually have bilateral or mirror symmetry as this favours movement.&#91;2&#93;&#58;&#8202;48–49&#8202; Plants often have radial or rotational symmetry, as do many flowers, as well as animals which are largely static as adults, such as sea anemones. Fivefold symmetry is found in the echinoderms, including starfish, sea urchins, and sea lilies.&#91;2&#93;&#58;&#8202;64–65&#8202;Among non-living things, snowflakes have striking sixfold symmetry: each flake is unique, its structure recording the varying conditions during its crystallisation similarly on each of its six arms.&#91;2&#93;&#58;&#8202;52&#8202;Crystals have a highly specific set of possible crystal symmetries; they can be cubic or octahedral, but cannot have fivefold symmetry (unlike quasicrystals).&#91;2&#93;&#58;&#8202;82–84&#8202;Spiral patterns are found in the body plans of animals including molluscs such as the nautilus, and in the phyllotaxis of many plants, both of leaves spiralling around stems, and in the multiple spirals found in flowerheads such as the sunflower and fruit structures like the pineapple.&#91;4&#93;Chaos theory predicts that while the laws of physics are deterministic, there are events and patterns in nature that never exactly repeat because extremely small differences in starting conditions can lead to widely differing outcomes.&#91;5&#93; The patterns in nature tend to be static due to dissipation on the emergence process, but when there is interplay between injection of energy and dissipation there can arise a complex dynamic.&#91;6&#93; Many natural patterns are shaped by this complexity, including vortex streets,&#91;7&#93; other effects of turbulent flow such as meanders in rivers.&#91;8&#93; or nonlinear interaction of the system &#91;9&#93;Waves are disturbances that carry energy as they move. Mechanical waves propagate through a medium – air or water, making it oscillate as they pass by.&#91;10&#93;Wind waves are surface waves that create the chaotic patterns of the sea. As they pass over sand, such waves create patterns of ripples; similarly, as the wind passes over sand, it creates patterns of dunes.&#91;11&#93;Foams obey Plateau's laws, which require films to be smooth and continuous, and to have a constant average curvature. Foam and bubble patterns occur widely in nature, for example in radiolarians, spongespicules, and the skeletons of silicoflagellates and sea urchins.&#91;12&#93;&#91;13&#93;Cracks form in materials to relieve stress: with 120 degree joints in elastic materials, but at 90 degrees in inelastic materials. Thus the pattern of cracks indicates whether the material is elastic or not. Cracking patterns are widespread in nature, for example in rocks, mud, tree bark and the glazes of old paintings and ceramics.&#91;14&#93;Alan Turing,&#91;15&#93; and later the mathematical biologist James D. Murray&#91;16&#93; and other scientists, described a mechanism that spontaneously creates spotted or striped patterns, for example in the skin of mammals or the plumage of birds: a reaction–diffusion system involving two counter-acting chemical mechanisms, one that activates and one that inhibits a development, such as of dark pigment in the skin.&#91;17&#93; These  spatiotemporal patterns slowly drift, the animals' appearance changing imperceptibly as Turing predicted.\nIn visual art, pattern consists in regularity which in some way \"organizes surfaces or structures in a consistent, regular manner.\" At its simplest, a pattern in art may be a geometric or other repeating shape in a painting, drawing, tapestry, ceramic tiling or carpet, but a pattern need not necessarily repeat exactly as long as it provides some form or organizing \"skeleton\" in the artwork.&#91;18&#93; In mathematics, a tessellation is the tiling of a plane using one or more geometric shapes (which mathematicians call tiles), with no overlaps and no gaps.&#91;19&#93;The concept and process of Zentangles, a blend of meditative Zen practice with the purposeful drawing of repetitive patterns or artistic tangles has been trademarked by Rick Roberts and Maria Thomas.&#91;20&#93; The process, using patterns such as cross hatching, dots, curves and other mark making, on small pieces of paper or tiles which can then be put together to form mosaic clusters, or shaded or coloured in, can, like the doodle, be used as a therapeutic device to help to relieve stress and anxiety in children and adults.&#91;21&#93;&#91;22&#93; Zentangles comprising relevant or irrelevant shapes can be drawn within the outline of an animal, human or object to provide texture and interest. [1]In architecture, motifs are repeated in various ways to form patterns. Most simply, structures such as windows can be repeated horizontally and vertically (see leading picture). Architects can use and repeat decorative and structural elements such as columns, pediments, and lintels.&#91;23&#93; Repetitions need not be identical; for example, temples in South India have a roughly pyramidal form, where elements of the pattern repeat in a fractal-like way at different sizes.&#91;24&#93;See also: pattern book.\nMathematics is sometimes called the \"Science of Pattern\", in the sense of rules that can be applied wherever needed.&#91;25&#93; For example, any sequence of numbers that may be modeled by a mathematical function can be considered a pattern. Mathematics can be taught as a collection of patterns.&#91;26&#93;Some mathematical rule-patterns can be visualised, and among these are those that explain patterns in nature including the mathematics of symmetry, waves, meanders, and fractals. Fractals are mathematical patterns that are scale invariant. This means that the shape of the pattern does not depend on how closely you look at it. Self-similarity is found in fractals. Examples of natural fractals are coast lines and tree shapes, which repeat their shape regardless of what magnification you view at. While self-similar patterns can appear indefinitely complex, the rules needed to describe or produce their formation can be simple (e.g. Lindenmayer systems describing tree shapes).&#91;27&#93;In pattern theory, devised by Ulf Grenander, mathematicians attempt to describe the world in terms of patterns. The goal is to lay out the world in a more computationally friendly manner.&#91;28&#93;In the broadest sense, any regularity that can be explained by a scientific theory is a pattern. As in mathematics, science can be taught as a set of patterns.&#91;29&#93;In computer science, a software design pattern, in the sense of a template, is a general solution to a problem in programming. A design pattern provides a reusable architectural outline that may speed the development of many computer programs.&#91;30&#93;In fashion, the pattern is a template, a technical two-dimensional tool used to create any number of identical garments. It can be considered as a means of translating from the drawing to the real garment.&#91;31&#93;",
+    "imageNames": [
+      "229px-Ionic_frieze_from_the_Erechtheum%2C_dimensions_130_x_50_cm%2C_in_the_Glyptothek.jpg",
+      "205px-Kleophrades_Painter_ARV_189_78bis_mission_to_Achilles.jpg",
+      "118px-William_Morris_-_%22Pimpernel%22_-_Google_Art_Project.jpg",
+      "316px-Strawberrythief.jpg",
+      "251px-Settee_MET_SF2007_368_img4.jpg",
+      "183px-Nikoxenos_Painter_ARV_221_14_athletes_with_trainer_and_flute_player_-_satyrs_as_athletes_%2805%29.jpg",
+      "438px-D.A._Sturdza_House%2C_Bucharest_%28Romania%29_32.jpg",
+      "75px-Schnee1.jpg",
+      "75px-Aloe_polyphylla_spiral.jpg",
+      "85px-Vortex-street-1.jpg",
+      "75px-Sand_dune_ripples.jpg",
+      "75px-M%C3%B6nster_-_Sand_-_Br%C3%A4dor_-_2021.jpg",
+      "75px-Foam_-_big.jpg",
+      "75px-Cracked_earth_in_the_Rann_of_Kutch.jpg",
+      "75px-Giant_Pufferfish_skin_pattern_detail.jpg",
+      "220px-Animal_skin.jpg",
+      "170px-Enderun_library_Topkapi_42.JPG",
+      "130px-Hampi1.jpg",
+      "220px-Evening_columns_Zeus_temple_Athens.jpg",
+      "170px-Fractal_fern_explained.png",
+      "40px-Wiktionary-logo-en-v2.svg.png",
+      "30px-Commons-logo.svg.png",
+      "34px-Wikiquote-logo.svg.png",
+      "16px-Symbol_category_class.svg.png",
+      "18px-Socrates.png"
+    ]
+  }
+}
